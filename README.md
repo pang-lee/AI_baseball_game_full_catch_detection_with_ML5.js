@@ -1,5 +1,5 @@
 
-#AI basebasll game detection made by ML5.js
+# AI basebasll game detection made by ML5.js
 
 ## What's included
 #### ML5.js
